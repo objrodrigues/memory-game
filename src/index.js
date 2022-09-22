@@ -8,7 +8,8 @@ import './styles/gameBoard.css';
 import './styles/gameOver.css';
 import './styles/gameHeader.css';
 import './styles/mediaQueries.css';
-import './styles/style.css';
+import './styles/general.css';
+import './styles/footer.css';
 
 import MemoryGame from './MemoryGame';
 import reportWebVitals from './reportWebVitals';

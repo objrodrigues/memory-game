@@ -2,6 +2,7 @@ import React, {useEffect, useState} from "react";
 import GameOver from "./components/GameOver";
 import GameBoard from "./components/GameBoard";
 import game from "./game/game";
+import Footer from "./components/Footer";
 
 export default function MemoryGame(){
 
@@ -44,6 +45,7 @@ export default function MemoryGame(){
             </header>
             <GameBoard cards={cards} handleFlip={handleFlip}></GameBoard>
             <GameOver plays={plays} show={gameOver} handleRestart={restart}></GameOver>
+            <Footer></Footer>
         </div>
 
     );
