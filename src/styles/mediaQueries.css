@@ -4,6 +4,10 @@
         width: 80px;
         height: 80px;
     }
+    .icon{
+        width: 80px;
+        height: 80px;
+    }
     #gameHeader{
         font-size: 30px;
     }
@@ -23,6 +27,10 @@
         width: 65px;
         height: 65px;
     }
+    .icon{
+        width: 65px;
+        height: 65px;
+    }
     #gameHeader{
         font-size: 20px;
     }
@@ -30,6 +38,10 @@
 
 @media screen and (max-width: 325px) {
     .card{
+        width: 60px;
+        height: 60px;
+    }
+    .icon{
         width: 60px;
         height: 60px;
     }
