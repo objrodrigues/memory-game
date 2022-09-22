@@ -1,16 +1,9 @@
 #gameHeader{
-    width: 500px;
-    height: 500px;
-    padding-bottom: 50px;
-    color: #101C2C;
-    font-size: 40px;
+    margin: 30px;
+    width: 100%;
+    text-align: center;
+    background-color: hsla(184, 100%, 44%, 0.3);
+    color: #01143F;
+    font-size: 50px;
     font-weight: bolder;
-
-    background-image: url(../../public/assets/images/memory.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-
-    display: flex;
-    justify-content: center;
-    align-items: flex-end;
 }

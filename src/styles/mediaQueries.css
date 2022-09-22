@@ -1,18 +1,33 @@
-@media screen and (max-width: 1000px) {
-    #container{
-        flex-direction:column;
-        
-    }
-}
 
 @media screen and (max-width: 500px) {
     .card{
-        width: 70px;
-        height: 70px;
+        width: 80px;
+        height: 80px;
     }
     #gameHeader{
-        width: 300px;
-        height: 300px;
-        font-size: 15px;
+        font-size: 30px;
+    }
+    #container{
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .card{
+        width: 65px;
+        height: 65px;
+    }
+    #gameHeader{
+        font-size: 20px;
+    }
+    #container{
+        justify-content: space-evenly;
+    }
+}
+
+@media screen and (max-width: 325px) {
+    .card{
+        width: 60px;
+        height: 60px;
     }
 }

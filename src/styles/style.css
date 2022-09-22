@@ -3,12 +3,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body{
-    font-family: 'Righteous', sans-serif;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(128, 128, 128, 0.555);
-}

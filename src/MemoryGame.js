@@ -40,7 +40,7 @@ export default function MemoryGame(){
     return(
         <div id="container">
             <header id="gameHeader">
-                JOGO DA MEMÓRIA
+                MEMORY GAME
             </header>
             <GameBoard cards={cards} handleFlip={handleFlip}></GameBoard>
             <GameOver plays={plays} show={gameOver} handleRestart={restart}></GameOver>
