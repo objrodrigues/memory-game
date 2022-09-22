@@ -1,0 +1,7 @@
+#gameBoard{
+    max-width: 500px;
+
+    display: grid;
+    grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}

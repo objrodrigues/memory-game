@@ -1,0 +1,16 @@
+#gameHeader{
+    width: 500px;
+    height: 500px;
+    padding-bottom: 50px;
+    color: #101C2C;
+    font-size: 40px;
+    font-weight: bolder;
+
+    background-image: url(../../public/assets/images/memory.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
