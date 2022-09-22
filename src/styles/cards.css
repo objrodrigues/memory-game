@@ -38,6 +38,10 @@
     font-size: 30px;
 }
 
+.card-back:hover{
+    background-image: linear-gradient(to top right, #00dce8, #01143F);
+}
+
 .flip{
     transform: rotateY(180deg);
 }
