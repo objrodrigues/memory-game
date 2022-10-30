@@ -2,8 +2,8 @@
     margin: 30px;
     width: 100%;
     text-align: center;
-    background-image: linear-gradient(to right, hsla(183, 100%, 45%, 0.3), hsla(183, 100%, 45%, 0.0));
-    color: #01143F;
+    background-image: linear-gradient(to right, hsla(222, 97%, 13%), hsla(183, 100%, 45%, 0.0));
+    color: #00dce8;
     font-size: 50px;
     font-weight: bolder;
 }
