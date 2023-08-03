@@ -6,7 +6,7 @@ export default function Footer(){
         <div className="footer">
             <Contacts></Contacts>
             <div>
-                Criado por: <a className="linkrd" href="https://page-three-orcin.vercel.app/" target="_blank">Diego Rodrigues</a>
+                Criado por: Diego Rodrigues
             </div>
         </div>
     )
